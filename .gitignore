@@ -1,0 +1,3 @@
+# Project exclude paths
+/pure-java/target/
+/spring-boot/target/
